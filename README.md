@@ -95,8 +95,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Nakamcode)
-- Twitter - [@ynakam360](https://www.twitter.com/nakam360)
+- Frontend Mentor - [@Nakamcode](https://www.frontendmentor.io/profile/Nakamcode)
+- Twitter - [@nakam360](https://www.twitter.com/nakam360)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
