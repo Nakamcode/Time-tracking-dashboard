@@ -42,8 +42,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://tracking-dashboard.netlify.app/)
-- Live Site URL: [Add live site URL here](https://tracking-dashboard.netlify.app/)
+- Solution URL: [Time-tracking-dashboard](https://tracking-dashboard.netlify.app/)
+- Live Site URL: [Time-tracking-dashboard](https://tracking-dashboard.netlify.app/)
 
 ## My process
 
