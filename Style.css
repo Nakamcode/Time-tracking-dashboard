@@ -63,3 +63,7 @@ ul li{
 ul li:nth-child(2),li:nth-child(3){
     color: rgba(255, 255, 255, 0.603);
 }
+ul li:hover{
+    color: #fff;
+    transition: 0.4s linear;
+}
