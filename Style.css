@@ -60,6 +60,6 @@ ul li{
     padding: 7px 0;
     cursor: pointer;
 }
-ul li:last-child{
+ul li:nth-child(2),li:nth-child(3){
     color: rgba(255, 255, 255, 0.603);
 }
