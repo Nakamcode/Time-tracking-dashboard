@@ -127,3 +127,11 @@ ul li:hover{
     font-size: 0.9em;
     color: rgba(255, 255, 255, 0.815);;
 }
+
+/* Mobile version design below */
+
+/* @media (min-width: 768px) {
+    .long-card,.second-card{
+        width: 90%;
+    }
+} */
