@@ -11,7 +11,7 @@ body{
     color:#fff;
     height: 100vh;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
 }
 
@@ -21,6 +21,7 @@ body{
     /*
     padding: 25px; */
     width: 230px;
+    margin: 20px;
 }
 
 .header-card{
@@ -76,6 +77,21 @@ ul li:hover{
     background-color: hsl(15, 100%, 70%);
     position: relative;
     padding: 0 20px;
+}
+.Exercise{
+    background-color:hsl(145, 58%, 55%) ;
+}
+.Play{
+    background-color: hsl(195, 74%, 62%);
+}
+.Social{
+    background-color: hsl(264, 64%, 52%);
+}
+.Study{
+    background-color: hsl(348, 100%, 68%);
+}
+.Self-care{
+    background-color: hsl(43, 84%, 65%);
 }
 .ping img{
     width: 62px;
