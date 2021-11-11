@@ -23,6 +23,11 @@ body{
     width: 230px;
     margin: 20px;
 }
+.second-card:hover{
+    background-color: hsl(246, 43%, 31%);
+    transition: 0.5s linear;
+    cursor: pointer;
+}
 
 .header-card{
     background-color: hsl(246, 80%, 60%);
