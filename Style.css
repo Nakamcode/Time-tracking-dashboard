@@ -15,11 +15,12 @@ body{
     align-items: center;
 }
 .card2{
-    background-color:  red;
+    background-color:  hsl(15, 100%, 70%);
     border-radius: 10px;
     width: 230px;
 }
 .card-header{
+    position: relative;
     display: flex;
     justify-content: flex-end;
     padding: 0 20px;
@@ -28,18 +29,31 @@ body{
 .img-container{
     height: 50px;
 }
+.img-container img{
+    position: absolute;
+    right: 20px;
+    top:-8px;
+    width: 84px;
+}
+/*
+ Exercise: no top;
+ Play: -2px top;
+ social: none;
+ self-care: -8px top, width 74px;
+ study: -6px top;
+work: -8px top;
+*/
 .card-body{
     background-color: hsl(235, 46%, 20%);
-    padding: 20px;
+    padding: 25px;
     border-radius: 10px;
-    height: 70%;
 }
-.top-study{
+.nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.hre{
-    padding: 20px 0;
+.hr{
+    padding: 25px 0 5px 0;
     font-size: 3.3em;
 }
