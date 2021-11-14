@@ -75,6 +75,19 @@ const proudOfThisFunc = () => {
   console.log('🎉')
 }
 ```
+Git commands I learnt through out the process
+```git
+git log
+```
+```git
+git -D branch newBranchname
+```
+```git
+git checkout branchname
+```
+```git
+git push origin -u branchname
+```
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
