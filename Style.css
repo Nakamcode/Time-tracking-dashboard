@@ -120,13 +120,13 @@ ul li:hover{
     /* background-color: green; */
 
 .img-container{
-    height: 50px;
+    height: 40px;
 }
 .img-container img{
     position: absolute;
     right: 20px;
     top:-8px;
-    width: 84px;
+    width: 70px;
 }
 /*
  Exercise: no top;
@@ -153,7 +153,8 @@ work: -8px top;
 .title {
     font-weight: 700;
 }
-.pre p{
+.title-study{
     font-size: 0.9em;
-    color: rgba(255, 255, 255, 0.815);;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 0.815);
 }
