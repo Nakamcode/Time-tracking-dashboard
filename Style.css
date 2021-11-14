@@ -23,11 +23,12 @@ main{
     width: 230px;
     margin: 20px;
 }
-.card2:hover{
+
+/* .card2:hover{
     background-color: hsl(246, 43%, 31%);
     transition: 0.5s linear;
     cursor: pointer;
-}
+} */
 
 .header-card{
     background-color: hsl(246, 80%, 60%);
@@ -83,9 +84,11 @@ ul li:hover{
 =======
 */
 .card2{
-    background-color:  hsl(15, 100%, 70%);
+    /* background-color:  hsl(15, 100%, 70%); */
     border-radius: 10px;
+    z-index: 100;
     width: 230px;
+    margin: 20px;
 }
 
 .card-header{
@@ -108,6 +111,9 @@ ul li:hover{
 }
 .Self-care{
     background-color: hsl(43, 84%, 65%);
+}
+.Work{
+    background-color: hsl(15, 100%, 70%);
 }
 /* .ping img{
     width: 62px;
