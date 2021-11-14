@@ -17,6 +17,7 @@ main{
     justify-content: center;
     align-items: center;
 }
+<<<<<<< HEAD
 .user-card,.second-card{
     background-color:  hsl(235, 46%, 20%);
     border-radius: 10px;
@@ -80,8 +81,19 @@ ul li:hover{
 /* .top{
     height: 40px;
     background-color: hsl(15, 100%, 70%);
+=======
+.card2{
+    background-color:  hsl(15, 100%, 70%);
+    border-radius: 10px;
+    width: 230px;
+}
+.card-header{
+>>>>>>> card2-re-structure
     position: relative;
+    display: flex;
+    justify-content: flex-end;
     padding: 0 20px;
+<<<<<<< HEAD
 } */
 .Exercise{
     background-color:hsl(145, 58%, 55%) ;
@@ -100,25 +112,41 @@ ul li:hover{
 }
 /* .ping img{
     width: 62px;
+=======
+    /* background-color: green; */
+}
+.img-container{
+    height: 50px;
+}
+.img-container img{
+>>>>>>> card2-re-structure
     position: absolute;
-    top:0.2px;
-    bottom:px;
+    right: 20px;
+    top:-8px;
+    width: 84px;
 }
-.top .ping{
-    display: flex;
-    justify-content: flex-end;
+/*
+ Exercise: no top;
+ Play: -2px top;
+ social: none;
+ self-care: -8px top, width 74px;
+ study: -6px top;
+work: -8px top;
+*/
+.card-body{
+    background-color: hsl(235, 46%, 20%);
+    padding: 25px;
+    border-radius: 10px;
 }
-.down{
-    padding: 20px;
-}
-.top-top{
+.nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.time{
-    padding: 20px 0 10px 0;
+.hr{
+    padding: 25px 0 5px 0;
     font-size: 3.3em;
+<<<<<<< HEAD
 }
 .title {
     font-weight: 700;
@@ -127,3 +155,5 @@ ul li:hover{
     font-size: 0.9em;
     color: rgba(255, 255, 255, 0.815);;
 } */
+=======
+>>>>>>> card2-re-structure
