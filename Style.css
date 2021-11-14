@@ -3,27 +3,27 @@
     padding:0;
     box-sizing: border-box;
     overflow: hidden;
-    font-family: 'Rubik',sans-serif;
 }
 
 body{
     background-color: hsl(226, 43%, 10%);
+    font-family: 'Rubik',sans-serif;
     color:#fff;
+}
+
+main{
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-
-.long-card,.second-card{
+.user-card,.second-card{
     background-color:  hsl(235, 46%, 20%);
     border-radius: 10px;
-    /*
-    padding: 25px; */
     width: 230px;
     margin: 20px;
 }
-.second-card:hover{
+.card2:hover{
     background-color: hsl(246, 43%, 31%);
     transition: 0.5s linear;
     cursor: pointer;
@@ -77,12 +77,12 @@ ul li:hover{
 /* second card design below */
 
 
-.top{
+/* .top{
     height: 40px;
     background-color: hsl(15, 100%, 70%);
     position: relative;
     padding: 0 20px;
-}
+} */
 .Exercise{
     background-color:hsl(145, 58%, 55%) ;
 }
@@ -98,7 +98,7 @@ ul li:hover{
 .Self-care{
     background-color: hsl(43, 84%, 65%);
 }
-.ping img{
+/* .ping img{
     width: 62px;
     position: absolute;
     top:0.2px;
@@ -126,4 +126,4 @@ ul li:hover{
 .pre p{
     font-size: 0.9em;
     color: rgba(255, 255, 255, 0.815);;
-}
+} */
