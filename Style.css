@@ -15,20 +15,24 @@ body{
     align-items: center;
 }
 .card2{
-    background-color:  hsl(235, 46%, 20%);
+    background-color:  red;
     border-radius: 10px;
     width: 230px;
 }
-
 .card-header{
-    background-color: red;
+    display: flex;
+    justify-content: flex-end;
     padding: 0 20px;
-    height: 30%;
+    /* background-color: green; */
+}
+.img-container{
+    height: 50px;
 }
 .card-body{
+    background-color: hsl(235, 46%, 20%);
     padding: 20px;
-    height: 70%;
     border-radius: 10px;
+    height: 70%;
 }
 .top-study{
     display: flex;
