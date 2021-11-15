@@ -3,24 +3,31 @@
     padding:0;
     box-sizing: border-box;
     overflow: hidden;
-    font-family: 'Rubik',sans-serif;
 }
 
 body{
     background-color: hsl(226, 43%, 10%);
+    font-family: 'Rubik',sans-serif;
     color:#fff;
+}
+
+main{
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-
-.long-card{
+.user-card,.second-card{
     background-color:  hsl(235, 46%, 20%);
     border-radius: 10px;
-    /*
-    padding: 25px; */
     width: 230px;
+    margin: 20px;
+}
+
+.card-body:hover{
+    background-color: hsl(246, 43%, 31%);
+    transition: 0.5s linear;
+    cursor: pointer;
 }
 
 .header-card{
@@ -66,4 +73,88 @@ ul li:nth-child(2),li:nth-child(3){
 ul li:hover{
     color: #fff;
     transition: 0.4s linear;
+}
+
+/* second card design below */
+
+
+/* .top{
+    height: 40px;
+    background-color: hsl(15, 100%, 70%);
+=======
+*/
+.card2{
+    /* background-color:  hsl(15, 100%, 70%); */
+    border-radius: 10px;
+    z-index: 100;
+    width: 230px;
+    margin: 20px;
+}
+
+.card-header{
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0 20px;
+}
+.Exercise{
+    background-color:hsl(145, 58%, 55%) ;
+}
+.Play{
+    background-color: hsl(195, 74%, 62%);
+}
+.Social{
+    background-color: hsl(264, 64%, 52%);
+}
+.Study{
+    background-color: hsl(348, 100%, 68%);
+}
+.Self-care{
+    background-color: hsl(43, 84%, 65%);
+}
+.Work{
+    background-color: hsl(15, 100%, 70%);
+}
+/* .ping img{
+    width: 62px;
+    /* background-color: green; */
+
+.img-container{
+    height: 40px;
+}
+.img-container img{
+    position: absolute;
+    right: 20px;
+    top:-8px;
+    width: 70px;
+}
+/*
+ Exercise: no top;
+ Play: -2px top;
+ social: none;
+ self-care: -8px top, width 74px;
+ study: -6px top;
+work: -8px top;
+*/
+.card-body{
+    background-color: hsl(235, 46%, 20%);
+    padding: 25px;
+    border-radius: 10px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hr{
+    padding: 25px 0 5px 0;
+    font-size: 3.3em;
+}
+.title {
+    font-weight: 700;
+}
+.title-study{
+    font-size: 0.9em;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 0.815);
 }
