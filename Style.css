@@ -158,3 +158,31 @@ work: -8px top;
     font-weight: 700;
     color: rgba(255, 255, 255, 0.815);
 }
+
+/* Mobile version code start here */
+
+/* Portrait */
+
+@media only screen
+
+and (min-device-width: 375px)
+
+and (max-device-width: 667px)
+
+and (-webkit-min-device-pixel-ratio: 2)
+
+and (orientation: portrait) {
+
+    main{
+        width: 80%;
+        margin: auto;
+        display: block;
+        height: scroll;
+    }
+    .user-card{
+        width: 100%;
+    }
+    .two-in-one{
+        display: block;
+    }
+}
