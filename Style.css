@@ -24,11 +24,11 @@ main{
     margin: 20px;
 }
 
-/* .card2:hover{
+.card-body:hover{
     background-color: hsl(246, 43%, 31%);
     transition: 0.5s linear;
     cursor: pointer;
-} */
+}
 
 .header-card{
     background-color: hsl(246, 80%, 60%);
