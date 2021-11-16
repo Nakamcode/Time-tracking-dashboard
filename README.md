@@ -55,6 +55,14 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - CSS Grid
 - Mobile-first workflow
 
+## How to  run it locally
+- Fork the repo
+- Clone the repo
+```git
+git clone (URL of cloned repo)
+```
+-Play around with the code
+
 
 ### What I learned
 
