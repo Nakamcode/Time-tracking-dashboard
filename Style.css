@@ -5,18 +5,22 @@
     overflow: hidden;
 }
 
+/* body{
+    background-color: hsl(226, 43%, 10%);
+    font-family: 'Rubik',sans-serif;
+    color:#fff;
+} */
 body{
     background-color: hsl(226, 43%, 10%);
     font-family: 'Rubik',sans-serif;
     color:#fff;
 }
-
-main{
+/* main{
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
 .user-card,.second-card{
     background-color:  hsl(235, 46%, 20%);
     border-radius: 10px;
@@ -172,12 +176,11 @@ and (max-device-width: 667px)
 and (-webkit-min-device-pixel-ratio: 2)
 
 and (orientation: portrait) {
-
+    
     main{
         width: 80%;
         margin: auto;
         display: block;
-        height: scroll;
     }
     .user-card{
         width: 100%;
