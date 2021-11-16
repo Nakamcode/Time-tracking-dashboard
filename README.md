@@ -16,7 +16,6 @@ This is a solution to the [Time tracking dashboard challenge on Frontend Mentor]
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -30,15 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![Screenshot of the Desktop Version Completed](./images/screenshot.png)
 
 ### Links
 
@@ -50,7 +41,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
@@ -58,32 +48,17 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ## How to  run it locally
 - Fork the repo
 - Clone the repo
+- Run this command on the terminal
 ```git
 git clone (URL of cloned repo)
 ```
--Play around with the code
+- Play around with the code 🔥🔥🔥🔥
 
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+### Git commands I learnt through out the process
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-Git commands I learnt through out the process
 ```git
 git log
 ```
@@ -94,34 +69,47 @@ git -D branch newBranchname
 git checkout branchname
 ```
 ```git
+git merge branchname
+```
+```git
 git push origin -u branchname
 ```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+```git
+git push origin -delete branchname
+```
+```git
+git branch -d branchname
+```
+```git
+git commit -m "commit message"
+```
+```git
+git push origin -u remotebranchname
+```
+```git
+git pull
+```
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I will focused on learning CSS Grid later after the project completion. I was finding it difficult making the design responsive on mobile with flex-box;
 
 
 ### Useful resources
 
 - [Github Documentation](https://docs.github.com/en) - This helped me for understanding github. I really liked this documentations, it very beginner friendly and I use it a lot.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Freecodecamp](https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/) - This is an amazing article which helped me finally understand how to delete branch both locally and remotely. I'd recommend it to anyone still learning Git and Github.
+- If you want more help with writing markdown, I recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@Nakamcode](https://www.frontendmentor.io/profile/Nakamcode)
 - Twitter - [@nakam360](https://www.twitter.com/nakam360)
 
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+I acknowledge [@RaiqaRasool](https://github.com/RaiqaRasool) for the daily motivation and inspiration;✨✨✨✨ I'm also grateful for all the bug hunting and solutions
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
