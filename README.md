@@ -113,4 +113,4 @@ I will focused on learning CSS Grid later after the project completion. I was fi
 ## Acknowledgments
 
 I acknowledge [@RaiqaRasool](https://github.com/RaiqaRasool) for the daily motivation and inspiration;✨✨✨✨ I'm also grateful for all the bug hunting and solutions
-**Checkout her version of the challenge**  [Time-tracking-dashboard](https://raiqarasool.github.io/Time-Tracking-Dashboard/)
+**Checkout** [@RaiqaRasool](https://github.com/RaiqaRasool) **version of the challenge**  [Time-tracking-dashboard](https://raiqarasool.github.io/Time-Tracking-Dashboard/)
