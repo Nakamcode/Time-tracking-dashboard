@@ -107,7 +107,7 @@ I will focused on learning CSS Grid later after the project completion. I was fi
 
 - Frontend Mentor - [@Nakamcode](https://www.frontendmentor.io/profile/Nakamcode)
 - Twitter - [@nakam360](https://www.twitter.com/nakam360)
-- Linkedin - [Nana Asamoah Kwaw]()
+- Linkedin - [Nana Asamoah Kwaw](https://www.linkedin.com/in/nana-asamoah-kwaw-09a27b212)
 
 
 ## Acknowledgments
