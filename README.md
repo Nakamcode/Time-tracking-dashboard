@@ -31,6 +31,8 @@ Users should be able to:
 
 ![Screenshot of the Desktop Version Completed](./images/Screenshot.png)
 
+**Screenshot of the Desktop Version Completed**
+
 ### Links
 
 - Solution URL: [Time-tracking-dashboard](https://tracking-dashboard.netlify.app/)
