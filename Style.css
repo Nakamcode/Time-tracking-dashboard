@@ -167,6 +167,9 @@ work: -8px top;
     font-weight: 700;
     color: rgba(255, 255, 255, 0.815);
 }
+h1{
+    font-size: 13px;
+}
 
 @media screen and (max-width:768px) {
     main{
